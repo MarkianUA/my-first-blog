@@ -25,7 +25,7 @@ SECRET_KEY = 'baq6@n*s8f7$*tq88ei4jsi1w6sw0^hp7cc67_nl4_w97v555!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['markianua.pythonanywhere.com']
 
 
 # Application definition
